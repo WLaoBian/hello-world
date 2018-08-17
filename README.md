@@ -1,5 +1,4 @@
 # hello-world
-
 def search(sequence, number, lower, upper) :
   if lower == upper :
     assert number == sequence[upper]
